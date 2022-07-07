@@ -1,6 +1,6 @@
-# Touchdown3-4
+# Detecção de falso positivo através de imagens
 
-## Monitoramento de marcas e comparação de imagens do TikTok.
+
 
   ### Um script simples escrito em python que monitora os usuários suspeitos que utilizam o nome da marca e faz a comparação das imagens dos perfis. 
 
