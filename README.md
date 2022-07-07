@@ -1,5 +1,5 @@
 # Detecção de falso-positivo através de imagens
-##Branding protection
+# Branding protection
 
 
   ### Um script simples escrito em python que monitora os usuários suspeitos que utilizam o nome da marca e faz a comparação das imagens dos perfis. 
